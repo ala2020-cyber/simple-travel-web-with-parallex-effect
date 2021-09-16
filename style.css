@@ -11,7 +11,7 @@ html , body {
 header {
    
    line-height:20vh;
-   background-image:url("../images/bg.jpg");
+   background-image:url("./bg.jpg");
    background-size:cover;
    background-position: center;
    background-repeat: no-repeat;
@@ -59,7 +59,7 @@ header {
     right:0px;
     opacity:0.87;
     z-index:-1;
-    background-image: url("../images/toronto.jpg");
+    background-image: url("./toronto.jpg");
     background-attachment: fixed;
     background-size:cover;
     background-position:center;
@@ -75,7 +75,7 @@ header {
     left:0px;
     opacity:0.87;
     z-index:-1;
-    background-image: url("../images/europe.jpg");
+    background-image: url("./europe.jpg");
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
@@ -90,7 +90,7 @@ header {
     left:0px;
     opacity:0.87;
     z-index:-1;
-    background-image: url("../images/australia.jpg");
+    background-image: url("./australia.jpg");
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
